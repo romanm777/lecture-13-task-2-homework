@@ -1,4 +1,4 @@
-var BULLET_COUNT = 10;
+var BULLET_COUNT = 50;
 var machineGun = [];
 var bulletIndex = 0;
 
