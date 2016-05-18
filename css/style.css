@@ -3,7 +3,19 @@ div#player {
   height: 10px;
   background: red;
 
-  transition: all 0.3s ease-out 0s;
+  transition: all 0.2s ease-out 0s;
+
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+div.bullet {
+  width: 5px;
+  height: 5px;
+  background: blue;
+
+  transition: all 0.6s ease-out 0s;
 
   position: absolute;
   top: 0px;
