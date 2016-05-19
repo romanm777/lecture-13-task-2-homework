@@ -95,5 +95,5 @@ function spaceProcess(el) {
 }
 
 function enterProcess(el) {
-  ;
+  spaceProcess(el);
 }
